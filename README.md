@@ -31,6 +31,8 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 Or just head to https://travelling-rapid-api.vercel.app/
 
+Note: API Keys are becoming inactive over time, to avoid unexpected costs
+
 ## Support
 
 We are still working on improving the app, further development is in our plans.
