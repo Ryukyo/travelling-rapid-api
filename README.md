@@ -1,5 +1,11 @@
 This was created during our time at Code Chrysalis.
 
+Video demo can be found at: https://youtu.be/F_LCkaC6-zI?t=1503
+
+For a live demo head to https://travelling-rapid-api.vercel.app/
+
+Note: API Keys are becoming inactive over time, to avoid unexpected costs
+
 ## Name
 
 Yuta's Travelling Companion
@@ -29,9 +35,6 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-Or just head to https://travelling-rapid-api.vercel.app/
-
-Note: API Keys are becoming inactive over time, to avoid unexpected costs
 
 ## Support
 
