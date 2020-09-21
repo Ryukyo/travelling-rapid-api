@@ -8,7 +8,7 @@ Note: API Keys are becoming inactive over time, to avoid unexpected costs
 
 ## Name
 
-Yuta's Travelling Companion
+Yuta's Travel Companion
 
 ## Description
 
